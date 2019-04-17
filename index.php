@@ -22,7 +22,7 @@
 <script type="text/javascript" src="stickyNotes.app.js"></script>
 
 <div ng-app='noteApp' ng-controller='noteCtrl'>
-	<button class="btn btn-xs btn-primary" ng-click="add()">Add</button>
+	<button class="btn btn-xs btn-primary" ng-click="add()">Add Pancho</button>
 	<div ng-repeat="(key, note) in notes" class="block panel PIApostit ui-draggable ui-resizable" ng-style="{'left': note.left, 'top': note.top, 'width': note.width, 'height': note.height, 'color': note.color, 'background-color': note.bgColor, 'z-index' : note.zindex}" noteid="{{ note.id }}" draggable>
 		<div class="front">
 			<div class="PIAtoolbar" style="cursor: move;">
