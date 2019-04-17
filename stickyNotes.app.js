@@ -252,7 +252,7 @@ noteApp.factory('stickyNotes', function($http) {
 			'bgColor': '#fffc7f',
 			'user': '',
 			'date': 'Now',
-			'content': 'Who: <br> Why: <br> Date: ',
+			'content': 'Who: <br> Why: <br> When: ',
 		};
 		//return existing new notes
 		var noteExisting = {
