@@ -1,12 +1,3 @@
-/**
- *	StickyNotes v1.0 in PHP & jQuery & AngularJS by zairwolf
- * 
- *	Source: https://github.com/zairwolf/stickyNotes/blob/master/stickyNotes.app.js
- *
- *	Author: Hai Zheng @ https://www.linkedin.com/in/zairwolf/
- *
- */
-
 var noteApp = angular.module('noteApp', []);
 
 //filter is for content html show
@@ -261,6 +252,7 @@ noteApp.factory('stickyNotes', function($http) {
 			'bgColor': '#fffc7f',
 			'user': '',
 			'date': 'Now',
+			'content': 'Who: <br> Why: <br> Date: ',
 		};
 		//return existing new notes
 		var noteExisting = {
