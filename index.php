@@ -1,13 +1,4 @@
-<!--
-/**
- *	StickyNotes v1.0 in PHP & jQuery & AngularJS by zairwolf
- * 
- *	Source: https://github.com/zairwolf/stickyNotes/blob/master/data.php
- *
- *	Author: Hai Zheng @ https://www.linkedin.com/in/zairwolf/
- *
- */
- -->
+
 <title>Watchmen Panchos</title>
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
