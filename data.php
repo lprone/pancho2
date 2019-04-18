@@ -1,12 +1,4 @@
 <?php
-/**
- *	StickyNotes v1.0 in PHP & jQuery & AngularJS by zairwolf
- * 
- *	Source: https://github.com/zairwolf/stickyNotes/blob/master/data.php
- *
- *	Author: Hai Zheng @ https://www.linkedin.com/in/zairwolf/
- *
- */
 
 $action = $_REQUEST['action'];
 define('TS', time());//take timestamp as id
