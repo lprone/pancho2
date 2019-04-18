@@ -8,7 +8,7 @@
  *
  */
  -->
-
+<title>Watchmen Panchos</title>
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
